@@ -9,3 +9,8 @@ for i in range(5):
 def add(a, b):
     return a + b
 arr = [a, b]
+person = {
+    "name":"John",
+    "age":30,
+    "city":"New York City"
+}
