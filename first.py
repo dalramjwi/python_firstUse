@@ -8,3 +8,4 @@ for i in range(5):
 
 def add(a, b):
     return a + b
+arr = [a, b]
